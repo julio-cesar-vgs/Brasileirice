@@ -1,4 +1,4 @@
-package br.com.alura;
+package br.com.alura.documento;
 
 import br.com.caelum.stella.format.CNPJFormatter;
 import br.com.caelum.stella.format.CPFFormatter;
