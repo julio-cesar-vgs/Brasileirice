@@ -22,17 +22,7 @@ public class FormatadorDocumento {
 		String tituloEleitorFormatado = formatadorTitulo.format(tituloEleitor);
 		System.out.println(tituloEleitor);
 		System.out.println(tituloEleitorFormatado);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 	}
 
 }
